@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#E6DFD5"/>
+  <rect x="20" y="20" width="760" height="460" fill="none" stroke="#CFC4B4" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#5A534A">Foto casual del día (ej. taza de café o libreta)</text>
+  <text x="50%" y="56%" text-anchor="middle" font-family="monospace" font-size="16" fill="#7A4B3A">Reemplazar en datos/diario.json → "image"</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <rect width="800" height="520" fill="#E2DBD0"/>
+  <rect x="20" y="20" width="760" height="480" fill="none" stroke="#C7BBA9" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#5A534A">Espacio para foto de teatro, código o rincón favorito</text>
+  <text x="50%" y="56%" text-anchor="middle" font-family="monospace" font-size="16" fill="#7A4B3A">public/img/teatro.jpg</text>
+</svg>

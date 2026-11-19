@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750">
+  <rect width="600" height="750" fill="#EAE3D9"/>
+  <circle cx="300" cy="285" r="88" fill="#C9BEB0"/>
+  <path d="M140 620 C140 480, 460 480, 460 620" fill="#C9BEB0"/>
+  <rect x="24" y="24" width="552" height="702" fill="none" stroke="#D3C8B8" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="50%" y="685" text-anchor="middle" font-family="monospace" font-size="18" fill="#666159">Tu retrato aquí (public/img/perfil.jpg)</text>
+</svg>
