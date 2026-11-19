@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "bienvenida",
+    "title": "Abrir una mesa sin prisa",
+    "date": "19 Nov 2026",
+    "readTime": "2 min de lectura",
+    "excerpt": "Un rincón propio en internet que no se parezca a una vitrina ni a un tablero ruidoso, donde escribir despacio y juntar lo que suele perderse.",
+    "featured": true,
+    "paragraphs": [
+      "Este lugar empieza sin grandes promesas. Quería un rincón propio en internet que no se parezca a una vitrina ni a un tablero ruidoso, donde pudiera escribir despacio, equivocarme por escrito y juntar cosas que normalmente se pierden entre chats y notas sueltas.",
+      "Aquí vas a encontrar dos ritmos. Por un lado, textos más largos cuando necesite desarrollar una idea, contar una historia o mirar algo con calma: lo que voy aprendiendo en la carrera, lo que me deja el teatro, los videojuegos, la memoria y las vueltas de la vida diaria. Por otro lado, una caja de diario para lo breve: frases que escuché, avances chicos, estados de ánimo, fotos sin editar o pensamientos que todavía no tienen forma de ensayo.",
+      "No hay prisa por leer todo ni obligación de sacar una conclusión al final. Si algún texto te hace pensar, sonreír o sentirte un poco menos solo en alguna idea, ya cumplió su parte. Pasa, siéntate y mira con calma."
+    ]
+  },
+  {
+    "slug": "codigo-y-dias-trabados",
+    "title": "Cuando el código compila pero el día se siente trabado",
+    "date": "14 Nov 2026",
+    "readTime": "4 min de lectura",
+    "excerpt": "Sobre cómo la lógica estricta de la programación contrasta con la ambigüedad de las emociones y las decisiones cotidianas.",
+    "featured": false,
+    "paragraphs": [
+      "En ingeniería de sistemas casi todo tiene una traza. Si algo falla, abres los registros, revisas la línea donde rompió el flujo y corriges la condición. Hay un consuelo silencioso en saber que las máquinas obedecen reglas claras, incluso cuando tardas horas en encontrar un punto y coma fuera de lugar.",
+      "La vida cotidiana, en cambio, no devuelve mensajes de error tan honestos. Puedes tener todos tus pendientes marcados como resueltos, el entorno limpio y la semana organizada, y aun así sentir una especie de latencia interna que no sabes de dónde viene.",
+      "Aprender a vivir más lento me está enseñando a no tratar mis días como si fueran código que hay que optimizar a toda costa. A veces no hace falta refactorizar nada; solo cerrar la laptop, salir a caminar o conversar sin reloj con alguien que te cae bien."
+    ]
+  },
+  {
+    "slug": "escuchar-sin-esperar-turno",
+    "title": "Lo que el teatro enseña sobre escuchar sin esperar turno",
+    "date": "08 Nov 2026",
+    "readTime": "5 min de lectura",
+    "excerpt": "Qué pasa cuando dejamos de preparar la respuesta mientras el otro aún está hablando.",
+    "featured": false,
+    "paragraphs": [
+      "En un escenario, si un actor está pensando en su siguiente línea mientras su compañero habla, la escena se cae al instante. El público nota de inmediato cuando alguien solo está esperando su turno para intervenir en lugar de estar presente en lo que ocurre.",
+      "En las conversaciones diarias hacemos lo mismo casi por reflejo. Escuchamos a medias mientras redactamos mentalmente nuestra réplica, nuestro consejo o nuestra anécdota parecida.",
+      "Las mejores charlas que he tenido últimamente tienen algo de buen ensayo teatral: nadie corre por llenar los silencios, nadie compite por tener la frase más ingeniosa y las ideas van tomando forma entre dos personas que realmente se están mirando."
+    ]
+  }
+]
