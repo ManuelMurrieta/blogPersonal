@@ -1,7 +1,7 @@
       </main>
       <footer>
         <span>Entreacto — Escrito sin prisa.</span>
-        <span>Hecho con PHP, texto plano y calma.</span>
+        <span>Código, teatro y conversaciones largas · <a href="/profesional" style="border: none;">Ver CV</a></span>
       </footer>
     </div>
   </body>

@@ -1,3 +1,6 @@
+<?php
+$avatarUrl = $perfil['avatar'] ?? '/img/perfil-placeholder.svg';
+?>
 <!doctype html>
 <html lang="es">
   <head>
@@ -11,11 +14,15 @@
     <div class="container">
       <header>
         <div class="nav-wrap">
-          <a href="/" class="site-title">Entreacto</a>
+          <div class="brand-group">
+            <img src="<?= htmlspecialchars($avatarUrl) ?>" alt="Foto de perfil" class="nav-avatar" />
+            <a href="/" class="site-title">Entreacto</a>
+          </div>
           <nav>
-            <a href="/">Inicio</a>
-            <a href="/notas">Apuntes de camerino</a>
-            <a href="/sobre-mi">Sobre mí</a>
+            <a href="/" class="<?= $seccion === 'inicio' ? 'active' : '' ?>">Inicio</a>
+            <a href="/notas" class="<?= $seccion === 'notas' ? 'active' : '' ?>">Apuntes de camerino</a>
+            <a href="/sobre-mi" class="<?= $seccion === 'sobre-mi' ? 'active' : '' ?>">Sobre mí</a>
+            <a href="/profesional" class="<?= $seccion === 'profesional' ? 'active' : '' ?>">Profesional / CV</a>
           </nav>
         </div>
       </header>
