@@ -1,5 +1,5 @@
 <?php
-$avatarUrl = $perfil['avatar'] ?? '/img/perfil-placeholder.svg';
+$avatarUrl = $perfil['avatar'] ?? '/img/perfil.jpg';
 $facetas = $perfil['facetasPersonales'] ?? [];
 ?>
 <div>
