@@ -15,7 +15,7 @@ if ($destacado === null && count($ensayos) > 0) {
 }
 
 $notasRecientes = array_slice($notas, 0, 3);
-$avatarUrl = $perfil['avatar'] ?? '/img/perfil-placeholder.svg';
+$avatarUrl = $perfil['avatar'] ?? '/img/perfil.jpg';
 ?>
 
 <section class="hero-editorial">
