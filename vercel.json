@@ -8,6 +8,7 @@
     { "source": "/", "destination": "/api/index.php" },
     { "source": "/ensayo", "destination": "/api/index.php?seccion=ensayo" },
     { "source": "/notas", "destination": "/api/index.php?seccion=notas" },
-    { "source": "/sobre-mi", "destination": "/api/index.php?seccion=sobre-mi" }
+    { "source": "/sobre-mi", "destination": "/api/index.php?seccion=sobre-mi" },
+    { "source": "/profesional", "destination": "/api/index.php?seccion=profesional" }
   ]
 }
