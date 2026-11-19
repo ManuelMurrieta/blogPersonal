@@ -1,0 +1,69 @@
+{
+  "nombre": "Tu Nombre Aquí",
+  "titulo": "Estudiante de Ingeniería de Sistemas · Desarrollador de Software",
+  "ubicacion": "Perú",
+  "avatar": "/img/perfil-placeholder.svg",
+  "cvPdf": "/docs/cv-personal.pdf",
+  "resumen": "Estudiante de Ingeniería de Sistemas con enfoque en desarrollo web, arquitectura limpia y resolución práctica de problemas. Fuera de la terminal, me interesa el teatro, la narrativa y construir herramientas digitales claras, útiles y con criterio humano.",
+  "contacto": [
+    { "label": "GitHub", "valor": "github.com/tu-usuario", "url": "https://github.com/" },
+    { "label": "LinkedIn", "valor": "linkedin.com/in/tu-usuario", "url": "https://linkedin.com/" },
+    { "label": "Correo", "valor": "tu.correo@ejemplo.com", "url": "mailto:tu.correo@ejemplo.com" }
+  ],
+  "facetasPersonales": [
+    {
+      "titulo": "Código y sistemas",
+      "detalle": "Me gusta entender cómo funcionan las cosas por dentro: servidores Linux, despliegue en la nube, PHP, JavaScript y arquitectura web."
+    },
+    {
+      "titulo": "Teatro y presencia",
+      "detalle": "El escenario me enseñó a escuchar sin apuro, sostener el silencio y comunicar con intención."
+    },
+    {
+      "titulo": "Vivir más lento",
+      "detalle": "Intentando bajarle el ruido a la prisa diaria: buenas conversaciones, cafés largos y tiempo sin pantallas."
+    },
+    {
+      "titulo": "Videojuegos e historias",
+      "detalle": "Disfruto los mundos bien construidos donde importa más la atmósfera y la historia que correr por puntos."
+    }
+  ],
+  "experienciaProyectos": [
+    {
+      "cargo": "Entreacto — Blog personal y arquitectura modular",
+      "organizacion": "Proyecto personal · PHP & Vercel",
+      "periodo": "2026",
+      "descripcion": "Diseño y desarrollo de un sitio web personal híbrido (ensayos + micro-diario + CV) desplegado con runtime serverless en Vercel y estructura desacoplada en JSON."
+    },
+    {
+      "cargo": "Infraestructura Cloud y Administración Linux",
+      "organizacion": "Proyectos universitarios · Google Cloud Platform",
+      "periodo": "2026",
+      "descripcion": "Configuración de máquinas virtuales Ubuntu, endurecimiento de reglas de firewall, túneles SSH y despliegue de servicios web bajo entornos de red restringidos."
+    },
+    {
+      "cargo": "Desarrollo de Aplicaciones Web Full-Stack",
+      "organizacion": "Proyectos académicos y personales",
+      "periodo": "2025 — 2026",
+      "descripcion": "Construcción de sistemas web con PHP, bases de datos relacionales, APIs REST y diseño de interfaces centradas en la legibilidad."
+    }
+  ],
+  "educacion": [
+    {
+      "titulo": "Ingeniería de Sistemas",
+      "institucion": "Universidad (En curso)",
+      "periodo": "Actualidad",
+      "descripcion": "Formación en ingeniería de software, redes, sistemas operativos, bases de datos y arquitectura de aplicaciones."
+    }
+  ],
+  "habilidades": [
+    "PHP",
+    "JavaScript / HTML / CSS",
+    "Linux / Ubuntu Server",
+    "Git & GitHub",
+    "Vercel / Cloud",
+    "SQL / Bases de datos",
+    "Redes y SSH",
+    "Comunicación y Teatro"
+  ]
+}
